@@ -1,0 +1,9 @@
+E:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\bin\Debug\StringTokenizer.dll
+E:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\bin\Debug\StringTokenizer.pdb
+E:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\obj\Debug\StringTokenizer.dll
+E:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\obj\Debug\StringTokenizer.pdb
+F:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\bin\Debug\StringTokenizer.dll
+F:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\bin\Debug\StringTokenizer.pdb
+F:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\obj\Debug\StringTokenizer.csprojResolveAssemblyReference.cache
+F:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\obj\Debug\StringTokenizer.dll
+F:\Temp\Programing\Dev\StringTokenizer\StringTokenizer\StringTokenizer\obj\Debug\StringTokenizer.pdb
